@@ -1,0 +1,7 @@
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\bin\Debug\ShowRating1.exe.config
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\bin\Debug\ShowRating1.exe
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\bin\Debug\ShowRating1.pdb
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\obj\Debug\ShowRating1.csproj.AssemblyReference.cache
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\obj\Debug\ShowRating1.csproj.CoreCompileInputs.cache
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\obj\Debug\ShowRating1.exe
+C:\Users\24lo742\Source\Repos\ShowRating2\ShowRating1\obj\Debug\ShowRating1.pdb
